@@ -1,0 +1,11 @@
+{
+  "name": "嘘つき先輩は、私にだけ本気。",
+  "short_name": "嘘つき先輩",
+  "description": "瀬名との両片思いオフィスラブ乙女ゲーム",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#21152e",
+  "theme_color": "#321c43",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],
+  "lang": "ja"
+}
